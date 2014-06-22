@@ -1,5 +1,8 @@
 # couchdb-user-account model
 
+[![build
+status](https://secure.travis-ci.org/twilson63/couchdb-user-account.png)](http://travis-ci.org/twilson63/couchdb-user-account)
+
 This is a user account model module for applications looking to
 leverage couchdb `_users` database to manage application users as 
 well as create a database per user and properly set the security
