@@ -1,6 +1,6 @@
 {
   "name": "couchdb-user-account",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A couchdb user account library for user per database pattern",
   "main": "index.js",
   "directories": {
