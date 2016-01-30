@@ -15,6 +15,10 @@
     "account",
     "model"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilson63/couchdb-user-account.git"
+  },
   "author": "Tom",
   "license": "MIT",
   "dependencies": {
