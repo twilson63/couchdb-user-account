@@ -15,12 +15,12 @@ properties giving the user account sole access to their datastore.
 
 ## Install
 
-`npm install couch-user-account`
+`npm install couchdb-user-account`
 
 ## Usage
 
 ``` js
-var account = require('couch-user-account')({ 
+var account = require('couchdb-user-account')({
   protocol: 'http',
   host: 'localhost:5984',
   auth: 'foo:bar'
